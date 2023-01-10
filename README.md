@@ -1,13 +1,15 @@
-### This is a [Next.js -v13](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), Typescript, Tailwindcss, Prettier, Eslint and Husky.
+### mekina.net landing page concept for a car dealership
 
-![banner](/public/banner.jpg?raw=true)
+![screenshot](/public/Screenshot.png?raw=true)
 
-## Getting Started
+Next.js, Tailwindcss, MaterialUI
+
+### Getting Started
 
 First, clone this repository to your local machine:
 
 ```bash
-git clone http://github.com/danmesfin/Nextjs-starter-Template.git <my-project-name>
+git clone https://github.com/danmesfin/mekina.net-landing-page.git <my-project-name>
 npm install
 ```
 
@@ -43,9 +45,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 - check-lint: asks ESLint to check for any linting warnings/errors on an .ts, .tsx or .js files.
 - format: tells prettier to automatically re-write all of our files with proper formatting.
 - test-all: runs a number of the above commands in sequence. https://blog.jarrodwatts.com/nextjs-eslint-prettier-husky
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
