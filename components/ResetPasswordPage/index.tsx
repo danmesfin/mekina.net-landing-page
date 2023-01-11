@@ -39,7 +39,7 @@ function index() {
       </div>
       <div className="relative flex flex-col w-full md:w-1/2 bg-red-300 invisible md:visible">
         <img
-          src="/car.jpg"
+          src="/image-car.jpg"
           alt="car-image"
           className="fixed h-full object-fill"
         />
