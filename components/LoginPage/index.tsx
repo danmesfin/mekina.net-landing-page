@@ -71,7 +71,7 @@ function index() {
               </div>
               <div className="flex mx-2">
                 <Link href="/reset-password" className="hover:text-blue-500">
-                  Forget Passwrd
+                  Forget Password
                 </Link>
               </div>
             </div>
@@ -80,18 +80,18 @@ function index() {
             </button>
           </form>
           <div className="text-md text-slate-700 mt-1 mx-auto">
-            Don&apos;t have ana account ?{" "}
+            Don&apos;t have an account ?{" "}
             <a className="text-blue-600 hover:text-underline" href="#">
-              Create on here
+              Create one here
             </a>
           </div>
         </div>
       </div>
       <div className="relative flex flex-col w-full md:w-1/2 bg-red-300 invisible md:visible">
         <img
-          src="/image-car.jpg"
+          src="/imagecar.jpg"
           alt="car-image"
-          className="fixed h-full object-fill"
+          className="fixed h-full object-fit"
         />
       </div>
     </div>
